@@ -2,4 +2,4 @@
 
 ## 技术栈
 
-Uni-App + Vue3 + Vite + Sass + WindiCSS
+Uni-App + Vue3 + TypeScript + Vite + Sass + WindiCSS
